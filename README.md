@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Voonce - Vincent Federle
-- 👀 I’m interested in C# app development with Xamarin and soon with MS MAUI, Unity game development and performance critical distributed system development. 
-- 🌱 I’m currently learning Unity, App publishing
-- 💞️ I’m looking to collaborate on 2D model design, professional application app design and game + app sound engineering
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on
 - 📫 I can be reached via email vincent.federle@gmx.de
 
 <!---
