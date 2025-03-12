@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Voonce - Vincent Federle
-- 👀 I’m interested in C#
+- 👀 I’m interested in
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on
 - 📫 I can be reached via email vincent.federle@gmx.de
